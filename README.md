@@ -1,1 +1,3 @@
-#Hello Git!
+# Hello Git!
+
+> Testing merge code conflicts
